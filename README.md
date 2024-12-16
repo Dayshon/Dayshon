@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects And Labs:</h2>
 
 - <b>Azure/ Cloud Cybersecurity Project</b>
-  - [Creating a Live SOC/HoneyNet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a Live SOC/HoneyNet in Azure](https://github.com/Dayshon/HoneyNET-Sentinel-)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
