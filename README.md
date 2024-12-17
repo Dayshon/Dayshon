@@ -4,9 +4,10 @@
 
 - <b>Azure/ Cloud Cybersecurity Project</b>
   - [Creating a Live SOC/HoneyNet in Azure](https://github.com/Dayshon/HoneyNET-Sentinel-)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>37 Comptia Immersive Virtual Labs)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- ><img>![image](https://github.com/user-attachments/assets/6c2ec468-ce6b-4761-aba0-9af8ef565693)
+<img>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
