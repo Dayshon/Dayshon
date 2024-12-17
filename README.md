@@ -1,22 +1,23 @@
-<h1>Hi, I'm Dayshon! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Dayshon! A Driven Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects And Labs:</h2>
 
 - <b>Azure/ Cloud Cybersecurity Project</b>
   - [Creating a Live SOC/HoneyNet in Azure](https://github.com/Dayshon/HoneyNET-Sentinel-)
-- <b>37 Comptia Immersive Virtual Labs)</b>
+- <b>Comptia Immersive Virtual Labs---(37 Labs were Completed in total Multiple times)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - ><img>![image](https://github.com/user-attachments/assets/6c2ec468-ce6b-4761-aba0-9af8ef565693)
-<img>
+<img><iframe src="file:///C:/Users/hnath/Downloads/Untitled%20document.pdf" width="600" height="800"></iframe> 
+
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
+- <b>Certifications</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
+- <b>Front-end Youtube Recreation Project</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
