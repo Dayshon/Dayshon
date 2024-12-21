@@ -19,7 +19,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Front-end Youtube Recreation Project</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Daytube-YouTube-mock)](https://github.com/Dayshon/Daytube-YouTube-mock)
 
 <h2>📺 Popular YouTube Videos</h2>
 
