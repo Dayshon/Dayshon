@@ -7,9 +7,11 @@
 - <b>Comptia Immersive Virtual Labs---(37 Labs were Completed in total Multiple times)</b>
    
 - ><img>![image](https://github.com/user-attachments/assets/6c2ec468-ce6b-4761-aba0-9af8ef565693)
+ 
 
 - <b>Certifications</b>
   <br>https://imgur.com/7hQ9jEJ<br>
+   <br>https://imgur.com/UbQ6HYr<br>
 
 - <b>Front-end Youtube Recreation Project</b>
   - [Daytube-YouTube-mock)](https://github.com/Dayshon/Daytube-YouTube-mock)
@@ -18,14 +20,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+
+[<img align="left" alt="DayshonRutherford | LinkedIn" width="22px" src="https://www.linkedin.com/in/dayshon/" />][linkedin]
+
+
+
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
